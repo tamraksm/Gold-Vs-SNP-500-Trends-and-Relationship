@@ -1,1 +1,1 @@
-# Gold-Vs-SNP-500-Trends-and-Relationship
+For this project, I had to download the data and read it into SAS, which was of Html format. After getting the data into SAS, I looked for various trends between gold and snp 500 and put macros in the SAS code.
